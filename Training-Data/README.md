@@ -2,7 +2,7 @@
 
 ***
 
-## X Transformer Version
+## X Transformer Implementation
 
 [![Open In Colab][colab-badge]][colab-notebook2]
 
@@ -11,7 +11,7 @@
 
 ***
 
-## [LEGACY] nanoGPT Version
+## [LEGACY] nanoGPT Implementation
 
 [![Open In Colab][colab-badge]][colab-notebook3]
 
