@@ -11,7 +11,7 @@
 
 ***
 
-## nanoGPT Version
+## [LEGACY] nanoGPT Version
 
 [![Open In Colab][colab-badge]][colab-notebook2]
 
