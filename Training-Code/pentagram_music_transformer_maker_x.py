@@ -138,10 +138,11 @@ for f in tqdm.tqdm(filez):
         if len(t) > CHUNKS_LENGTH+10:
             sidx = (int((len(t) // 2) / 5) * 5)-(CHUNKS_LENGTH // 2)
             train_data.append(t[sidx:sidx+CHUNKS_LENGTH])
-            chunks_counter += 1
+
         else:
             discarted_chunks_counter += 1
 
+        chunks_counter += 1
 #==========================================================================
 
 print('=' * 70)
