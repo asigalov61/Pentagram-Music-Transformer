@@ -82,7 +82,7 @@ print('Done')
 
 """# Load training data"""
 
-dataset_addr = "/home/ubuntu/INTS"
+dataset_addr = "/content/INTS"
 
 SEQ_LEN = 8192 # Models seq len
 PAD_IDX = 1670 # Models pad index
