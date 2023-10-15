@@ -5,9 +5,14 @@
 
 ***
 
-# X Transformer Implementation
+# [WIP] X Transformer Implementation
 
-## Coming soon...
+## WIP Test Model Preview
+
+[![Open In Colab][colab-badge]][colab-notebook1]
+
+[colab-notebook1]: <https://colab.research.google.com/github/asigalov61/Pentagram-Music-Transformer/blob/main/Pentagram_Music_Transformer_X.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 ***
 
