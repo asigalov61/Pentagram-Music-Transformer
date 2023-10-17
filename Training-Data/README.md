@@ -2,17 +2,6 @@
 
 ***
 
-## X Transformer Implementation
-
-[![Open In Colab][colab-badge]][colab-notebook2]
-
-[colab-notebook2]: <https://colab.research.google.com/github/asigalov61/Pentagram-Music-Transformer/blob/main/Training-Data/Pentagram_Music_Transformer_Training_Dataset_Maker_X.ipynb>
-[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
-
-***
-
-## [LEGACY] nanoGPT Implementation
-
 [![Open In Colab][colab-badge]][colab-notebook3]
 
 [colab-notebook3]: <https://colab.research.google.com/github/asigalov61/Pentagram-Music-Transformer/blob/main/Training-Data/Pentagram_Music_Transformer_Training_Dataset_Maker.ipynb>
